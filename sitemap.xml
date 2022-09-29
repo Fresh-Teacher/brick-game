@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://freshteacher.software/</loc>
-  <lastmod>2022-09-23T17:25:08+00:00</lastmod>
+  <loc>https://freshteacher.tech/</loc>
+  <lastmod>2022-09-11T10:47:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://freshteacher.tech/index.html</loc>
+  <lastmod>2022-09-11T10:47:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 

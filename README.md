@@ -1,1 +1,2 @@
-# This site is live at https://freshteacher.tech/brickgame
+# This repository is live at https://fresh-teacher.github.io
+
